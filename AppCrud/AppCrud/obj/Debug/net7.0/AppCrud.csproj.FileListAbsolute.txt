@@ -1,0 +1,195 @@
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE\089_FUNCIONALIDAD CRUD ASP NET CORE 7\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Desktop\nuervos intentos de estudio\089_FUNCIONALIDAD_CRUD_ASPNETCORE7_ADO\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+D:\asp\SIN PROTECCION\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Azure.Core.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Azure.Identity.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Humanizer.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.CodeDom.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Memory.Data.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Monolito\Crud 7 tipo -Monolito\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
